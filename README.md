@@ -40,8 +40,8 @@ Full-stack + Android app for real-time slot booking and parking management.
 
 ## 📫 Contact Me  
 - 📧 *Email:* morasandeep4@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [LeetCode](https://leetcode.com/your-link)  
+- [LinkedIn](www.linkedin.com/in/mora-sandeep-aa68722bb)  
+- [LeetCode](https://leetcode.com/u/Sandeep5553/)  
 
 ---
 
